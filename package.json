@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio-2.0/",
+    "build": "vite build --base=/js_103_bomatsara/",
     "preview": "vite preview"
   },
   "devDependencies": {
